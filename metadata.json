@@ -1,0 +1,6 @@
+{
+  "name": "MotionCut",
+  "description": "We turn one ecommerce product into 30 finished Meta ads every month. No creators to source, no products to ship, no weeks of waiting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
